@@ -101,11 +101,11 @@
 
 ## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-rosh02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="md-rosh02" width="200px"; padding-top="20px" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojcode242&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="manojcode242" width="200px"; padding-top="20px" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rosh02&&theme=tokyonight" alt="md-rosh02" width="290px" padding-down: 20px; padding-right:20px; /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manojcode242&&theme=tokyonight" alt="manojcode242" width="290px" padding-down: 20px; padding-right:20px; /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=md-rosh02&show_icons=true&locale=en&theme=tokyonight" alt="md-rosh02" width="290px" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manojcode242&show_icons=true&locale=en&theme=tokyonight" alt="manojcode242" width="290px" /></p>
 
 
 
