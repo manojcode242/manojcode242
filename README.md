@@ -28,15 +28,6 @@
 
 ## Connect With Me👋🏼
 
-<p align="left">  
-  <a href="https://twitter.com/ManojSullad2" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-  <a href="https://www.linkedin.com/in/manoj-sullad-906331225/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/manoj_sullad/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-  <a href="https://discord.com/users/Manoj#8311" target="blank" style="display: inline-block; vertical-align: middle; margin-top: -20px;"><img src="https://svgshare.com/i/stF.svg" height="35px" width="35px"></a>
-</p>
-
-## Virtual Vault 🪄
-
 <a href="https://bio.link/manojcode" target="_blank"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-interface-kiranshastry-gradient-kiranshastry.png"/>
 
 
