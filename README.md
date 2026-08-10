@@ -14,10 +14,29 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 ## 🛠️ Remote Support Tools
 ![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-0078D6?style=for-the-badge)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge)
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge)
+
+### ⚙️ Service Management
+![SLA](https://img.shields.io/badge/SLA%20Adherence-00897B?style=for-the-badge)
+![TAT](https://img.shields.io/badge/TAT-5E35B1?style=for-the-badge)
+![Escalation Handling](https://img.shields.io/badge/Escalation%20Handling-E53935?style=for-the-badge)
+
+### 🔧 Technical Troubleshooting
+![Hardware Troubleshooting](https://img.shields.io/badge/Hardware%20Troubleshooting-6D4C41?style=for-the-badge)
+![Application Support](https://img.shields.io/badge/Application%20Support-3F51B5?style=for-the-badge)
+![Desktop Support](https://img.shields.io/badge/Desktop%20Support-795548?style=for-the-badge)
 
 ### 🌐 Networking & IT Fundamentals
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
@@ -36,19 +55,11 @@
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-### ⚙️ Service Management
-![SLA](https://img.shields.io/badge/SLA%20Adherence-00897B?style=for-the-badge)
-![TAT](https://img.shields.io/badge/TAT-5E35B1?style=for-the-badge)
-![Escalation Handling](https://img.shields.io/badge/Escalation%20Handling-E53935?style=for-the-badge)
 
-### 🔧 Technical Troubleshooting
-![Hardware Troubleshooting](https://img.shields.io/badge/Hardware%20Troubleshooting-6D4C41?style=for-the-badge)
-![Application Support](https://img.shields.io/badge/Application%20Support-3F51B5?style=for-the-badge)
-![Desktop Support](https://img.shields.io/badge/Desktop%20Support-795548?style=for-the-badge)
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
