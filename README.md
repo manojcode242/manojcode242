@@ -1,5 +1,4 @@
 
-<img src="./Pixel.gif" alt="GitHub Banner" width="100%" />
 
 # Hi, I’m Manoj Sullad 👋.
 💻 Support Associate | Technical Support Engineer | <br>🛠️ Skilled in Desktop Support, Application Troubleshooting & Service Desk Operations <br>⚙️ Strong in SLA/TAT adherence, Root Cause Analysis & Escalation Handling <br>🌐 Knowledge of Windows, Linux, Networking (TCP/IP, DNS) & System Administration <br>🤝 Focused on delivering reliable solutions and improving user experience  
